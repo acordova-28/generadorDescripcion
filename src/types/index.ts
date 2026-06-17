@@ -4,6 +4,8 @@ export type Project =
   | 'Admin Portal'
   | 'Ecommerce'
   | 'Liquidaciones ATS'
+  | 'Control Gavetas'
+  | 'Odoo'
   | 'Otro';
 
 export type Category =

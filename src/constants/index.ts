@@ -6,6 +6,8 @@ export const PROJECTS: Project[] = [
   'Admin Portal',
   'Ecommerce',
   'Liquidaciones ATS',
+  'Control Gavetas',
+  'Odoo',
   'Otro',
 ];
 
